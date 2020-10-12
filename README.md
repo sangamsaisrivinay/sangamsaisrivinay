@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on java
+# 🔭 I’m currently working on java
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on linkedin,github
 - 🤔 I’m looking for help with datascientist
