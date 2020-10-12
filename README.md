@@ -9,4 +9,4 @@ I am a student😎,engineer!!,programmer</>
 - 💬 Ask me about any tech stuff
 - 📫 How to reach me: Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190
 - 😄 Pronouns: He/Mr.
-- ⚡ Fun fact: i dont know about github
+- ⚡ Fun fact: i dont working on github ;)
