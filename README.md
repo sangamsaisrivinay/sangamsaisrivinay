@@ -1,5 +1,6 @@
 ### Hi there 👋,i am vinay
 
+I am a student😎,engineer!!,programmer</>
 
 - 🔭 I’m currently working on java
 - 🌱 I’m currently learning computer vision
