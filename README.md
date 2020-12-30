@@ -12,4 +12,4 @@ I am a student😎,engineer!!,programmer</>
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: i dont know about working on github ;)
 ------------------------------------------------------------------------------------
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![vinay's github stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay)
