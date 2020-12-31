@@ -1,7 +1,8 @@
 ### 🤝 i am Vinay
 ![Hel_WHITE-BACKGROUND(CROP)](https://user-images.githubusercontent.com/68855472/103367352-16950180-4a82-11eb-82f3-c709cc305c76.gif)
 
-I am a student😎,engineer!!,programmer</>
+----------------------------------------------------------------
+###I am a  computer science student😎 @VVIT,Guntur
 
 - 🔭 I’m currently working on data structures
 - 🌱 I’m currently learning java
@@ -9,9 +10,13 @@ I am a student😎,engineer!!,programmer</>
 - 🤔 I’m looking for help with datascientist
 - 💬 Ask me about any tech stuff
 - 📫 How to reach me: Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190
-- 😄 Pronouns: He/Mr.
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: i dont know about working on github ;)
 ------------------------------------------------------------------------------------
 ![vinay's github stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay)![cat-staring-sticker-for-ios-cat-png-gif-623_200](https://user-images.githubusercontent.com/68855472/103369358-26fbab00-4a87-11eb-8565-266c848bd344.gif)
 ------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay)](https://github.com/sangamsaisrivinay/github-readme-stats)
+------------------------------------------------------------------------------------
+###conact me
+
+Email:saisrivinayreddysangam@gmail.com
