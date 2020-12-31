@@ -12,7 +12,7 @@
 - ⚡ Fun fact: i dont know about working on github ;)
 ------------------------------------------------------------------------------------
 ![sai sri vinay reddy's github stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay)
-   ![source](https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif)
+&emap![source](https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif)
 
 -------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay)](https://github.com/sangamsaisrivinay/github-readme-stats)
