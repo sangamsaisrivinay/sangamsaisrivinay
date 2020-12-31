@@ -1,6 +1,7 @@
 ### 🤝 I am <i>Sangam Sai Sri Vinay Reddy</i>,
 ![Hel_WHITE-BACKGROUND(CROP)](https://user-images.githubusercontent.com/68855472/103367352-16950180-4a82-11eb-82f3-c709cc305c76.gif)
 <div><b><i>'''Engineering is the closest thing to Magic that exists in the world'''</i></b></div>
+
 ----------------------------------------------------------------
 <b>I am a  computer science student😎 @VVIT,Guntur</b>
 - 🔭 I’m currently working on data structures
