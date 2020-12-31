@@ -22,4 +22,4 @@ Email:saisrivinayreddysangam@gmail.com
 
 ------------------------------------------------------------------------------------
 
-<i>Thankyou for visiting my profile...</i>
+<i><b>                                 Thankyou for visiting my profile...</b></i>
