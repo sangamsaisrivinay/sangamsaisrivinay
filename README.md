@@ -22,7 +22,7 @@ Email: saisrivinayreddysangam@gmail.com
 <div>Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190</div>
 
 ------------------------------------------------------------------------------------
-<div><p style="fontsize:30px"><b><i>'''Engineering is the closest thing to Magic that exists in the world'''</i></b></p></div>
+<p style="fontsize:100px"><b><i>'''Engineering is the closest thing to Magic that exists in the world'''</i></b></p>
 
 ------------------------------------------------------------------------------------
 
