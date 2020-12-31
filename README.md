@@ -1,4 +1,4 @@
-### 🤝 i am Sangam Sai Sri Vinay Reddy,
+### 🤝 i am <i>Sangam Sai Sri Vinay Reddy</i>,
 ![Hel_WHITE-BACKGROUND(CROP)](https://user-images.githubusercontent.com/68855472/103367352-16950180-4a82-11eb-82f3-c709cc305c76.gif)
 
 ----------------------------------------------------------------
@@ -19,3 +19,5 @@
 
 Email:saisrivinayreddysangam@gmail.com
 <div>Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190</div>
+------------------------------------------------------------------------------------
+<i>Thankyou for visiting my profile...</i>
