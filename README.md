@@ -19,5 +19,7 @@
 
 Email:saisrivinayreddysangam@gmail.com
 <div>Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190</div>
+
 ------------------------------------------------------------------------------------
+
 <i>Thankyou for visiting my profile...</i>
