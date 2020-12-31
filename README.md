@@ -3,8 +3,8 @@
 
 I am a student😎,engineer!!,programmer</>
 
-- 🔭 I’m currently working on java
-- 🌱 I’m currently learning computer vision
+- 🔭 I’m currently working on data structures
+- 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on linkedin,github
 - 🤔 I’m looking for help with datascientist
 - 💬 Ask me about any tech stuff
