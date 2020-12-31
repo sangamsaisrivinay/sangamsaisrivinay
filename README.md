@@ -17,7 +17,7 @@
 -------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay)](https://github.com/sangamsaisrivinay/github-readme-stats)
 ------------------------------------------------------------------------------------
-<div><b>conact me</b></div>
+<div><b>conact me</b></div><img src="https://user-images.githubusercontent.com/68855472/103417057-2eb66f00-4baf-11eb-8e89-65a06c4f1dae.gif" width="20" height="20">
 Email:saisrivinayreddysangam@gmail.com  
 <div>Linkedin:https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190</div>
 
