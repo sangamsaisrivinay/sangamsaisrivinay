@@ -24,8 +24,11 @@
 <div><b>conact me</b><img src="https://user-images.githubusercontent.com/68855472/103417057-2eb66f00-4baf-11eb-8e89-65a06c4f1dae.gif" width="20" height="20"></div>
 <div><a href="mailto:saisrivinayreddysangam@gmail.com">Mail</a></div>
 <div><a href="https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190">Linkedin/<b>Sangam Sai Sri Vinay Reddy</b><a></div>
-  
+
+---------------------------------------------------------------
+  <b>profiles</b>
 <div><a href="https://repl.it/@SangamSai">repl.it</a></div>
+<div><a href="https://www.kaggle.com/sangamsaisrivinay">kaggle</a></div>
 
 ------------------------------------------------------------------------------------
 <img src="https://user-images.githubusercontent.com/68855472/103442705-b1f2c600-4c7e-11eb-86da-e43124a43426.gif" width="1920" height="400">
