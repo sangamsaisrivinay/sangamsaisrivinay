@@ -13,6 +13,7 @@
       <li>web development is fun,though I didn't deepdive through it as far as i've learned i didn't find any challenging tasks..also i love doing artistic things..which attracted me more towards webdevelopment</li>
       <li>iOS development,firstly i am a big fan of apple and also there is more demand for iOS developers also swift programming is also simple to learn</li>
       <li>Finally,Machine Learning..I am very lazy and i love automating the tasks also ML is more challenging and interesting to learn.</li></ul>
+      
 ------------------------------------------------------------------------------------
 
 <a href="https://github.com/sangamsaisrivinay?tab=repositories"><h4><i>list of repositories</i></h4></a>
