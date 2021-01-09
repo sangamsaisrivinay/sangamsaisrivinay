@@ -2,14 +2,17 @@
 ![Hel_WHITE-BACKGROUND(CROP)](https://user-images.githubusercontent.com/68855472/103367352-16950180-4a82-11eb-82f3-c709cc305c76.gif)
 
 ----------------------------------------------------------------
+<h2>About me</h2>
 <b>I am a  computer science student😎 @VVIT,Guntur</b>
 - 🔭 I’m currently working on data structures
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on linkedin,github
 - 🤔 I’m looking for help with datascientist
 - 💬 Ask me about any tech stuff
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: i dont know about working on github ;)
+- 😄 My area of interests are MachineLearning,WebDevelopment and iOS development<ul>
+      <li>web development is fun,though I didn't deepdive through it as far as i've learned i didn't find any challenging tasks..also i love doing artistic things..which attracted me more towards webdevelopment</li>
+      <li>iOS development,firstly i am a big fan of apple and also there is more demand for iOS developers also swift programming is also simple to learn</li>
+      <li>Finally,Machine Learning..I am very lazy and i love automating the tasks also ML is more challenging and interesting to learn.</li></ul>
 ------------------------------------------------------------------------------------
 
 <a href="https://github.com/sangamsaisrivinay?tab=repositories"><h4><i>list of repositories</i></h4></a>
