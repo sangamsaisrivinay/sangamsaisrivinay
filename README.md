@@ -3,13 +3,13 @@
 
 ----------------------------------------------------------------
 <h2>About me</h2>
-<b>I am a  computer science student😎 @VVIT,Guntur</b>
-- 🔭 I’m currently working on data structures
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on linkedin,github
-- 🤔 I’m looking for help with datascientist
-- 💬 Ask me about any tech stuff
-- 😄 My area of interests are MachineLearning,WebDevelopment and iOS development<ul>
+<b>I am a  computer science student😎 @VVIT,Guntur</b><ul>
+<li>🔭 I’m currently working on data structures
+<li>🌱 I’m currently learning java
+<li>👯 I’m looking to collaborate on linkedin,github
+<li>🤔 I’m looking for help with datascientist
+<li>💬 Ask me about any tech stuff
+<li>😄 My area of interests are MachineLearning,WebDevelopment and iOS development
       <li>web development is fun,though I didn't deepdive through it as far as i've learned i didn't find any challenging tasks..also i love doing artistic things..which attracted me more towards webdevelopment</li>
       <li>iOS development,firstly i am a big fan of apple and also there is more demand for iOS developers also swift programming is also simple to learn</li>
       <li>Finally,Machine Learning..I am very lazy and i love automating the tasks also ML is more challenging and interesting to learn.</li></ul>
