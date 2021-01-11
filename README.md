@@ -10,9 +10,9 @@
 <li>🤔 I’m looking for help with datascientist
 <li>💬 Ask me about any tech stuff
 <li>😄 My area of interests are MachineLearning,WebDevelopment and iOS development
-      <li>web development is fun,though I didn't deepdive through it as far as i've learned i didn't find any challenging tasks..also i love doing artistic things..which attracted me more towards webdevelopment</li>
-      <li>iOS development,firstly i am a big fan of apple and also there is more demand for iOS developers also swift programming is also simple to learn</li>
-      <li>Finally,Machine Learning..I am very lazy and i love automating the tasks also ML is more challenging and interesting to learn.</li></ul>
+      <li>web development is fun,though I didn't deepdive through it,as far as i've learned i didn't find any challenging tasks..also i love doing artistic things..which attracted me more towards webdevelopment</li>
+      <li>iOS development,firstly i am a big fan of apple and there is more demand for iOS developers also swift programming is and simple to learn after Python</li>
+      <li>Finally,Machine Learning..I am very lazy and i love automating the tasks ML is more challenging and interesting to learn.</li></ul>
       
 ------------------------------------------------------------------------------------
 
