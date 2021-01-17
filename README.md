@@ -16,9 +16,9 @@
       
 ------------------------------------------------------------------------------------
 
-<a href="https://github.com/sangamsaisrivinay?tab=repositories"><h4><i>list of repositories</i></h4></a>
 
-------------------------------------------------------------------------------------
+
+
 ![sai sri vinay reddy's github stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay&show_icons=true&count_private=true&theme=radical)
 <img src="https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif" width="40" height="30">
 
