@@ -23,6 +23,11 @@
 <img src="https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif" width="40" height="30">
 
 -------------------------------------------------------------------------------------
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangamsaisrivinay&theme=dark)](https://github.com/sangamsaisrivinay/github-readme-streak-stats)
+
+----------------------------------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay&layout=compact)](https://github.com/sangamsaisrivinay/github-readme-stats)
 
 -----------------------------------------------------------------------------------------
