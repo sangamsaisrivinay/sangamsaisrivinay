@@ -19,16 +19,8 @@
 
 -------------------------------------------------------------------------
 
-![sai sri vinay reddy's github stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay&show_icons=true&count_private=true&theme=radical)
-<img src="https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif" width="40" height="30">
-
--------------------------------------------------------------------------------------
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangamsaisrivinay&theme=dark)](https://github.com/sangamsaisrivinay/github-readme-streak-stats)
-
-----------------------------------------------------
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay&layout=compact&theme=dark)](https://github.com/sangamsaisrivinay/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif" width="40" height="30">
 
 -----------------------------------------------------------------------------------------
 <div><b>conact me</b><img src="https://user-images.githubusercontent.com/68855472/103417057-2eb66f00-4baf-11eb-8e89-65a06c4f1dae.gif" width="20" height="20"></div>
