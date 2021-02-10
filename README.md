@@ -15,7 +15,7 @@
       <li>Finally,Machine Learning..I am very lazy and i love automating the tasks ML is more challenging and interesting to learn.</li></ul>
       
 ------------------------------------------------------------------------------------
-🌟  My portfolio website is now published @ <a href="https://www.portfoliobox.net/pb4/admin#/home">sangamsaisrivinay</a>
+🌟  My portfolio website is now published @ <a href="https://www.portfoliobox.net/pb4/admin?preview=1#/">sangamsaisrivinay</a>
 
 -------------------------------------------------------------------------
 
