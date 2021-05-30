@@ -10,7 +10,7 @@
 <li>🤔 I’m looking for help with datascientist
 <li>💬 Ask me about any tech stuff
 
-<h4>familiar with</h4>
+<h4>Tools and Technologies</h4>
       <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++" length="100" width="100"> 
 <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="C" length="50" width="100"> 
