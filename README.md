@@ -13,7 +13,7 @@
 <h4>familiar with</h4>
       <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++" length="100" width="100"> 
-<img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="C" length="100" width="100"> 
+<img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="C" length="50" width="100"> 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" length="100" width="100"> 
 <img src="https://ironfocus.com/wp-content/uploads/2020/04/9-python.jpg" alt="Python" length="100" width="100"> 
 <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" alt="Dart" length="100" width="100"> 
