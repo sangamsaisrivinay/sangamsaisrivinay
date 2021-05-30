@@ -31,7 +31,7 @@
 
 <div><a href="https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190">
       <img src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-512.png" length="50" width="50"></a>
-      <a href="saisrivinayreddysangam@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.jpg" length="50" width="50"></a>
+      <a href="mailto:saisrivinayreddysangam@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.jpg" length="50" width="50"></a>
       </div>
 
 ---------------------------------------------------------------
