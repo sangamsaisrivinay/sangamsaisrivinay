@@ -22,9 +22,19 @@
       </div>
       
 ------------------------------------------------------------------------------------
-
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamsaisrivinay&layout=compact&theme=dark)](https://github.com/sangamsaisrivinay/github-readme-stats)
 <img src="https://user-images.githubusercontent.com/68855472/103416407-a636cf00-4bac-11eb-9e95-9af860a6faab.gif" width="40" height="30">
+      
+      
+-------------------------------------------------------------------------------------      
+ 
+<h3>mini projects</h3>
+<div>
+      <a href="https://github.com/sangamsaisrivinay/miniprojects/tree/main/tictactoe"><img src="https://play-lh.googleusercontent.com/7k1wSfnstoNib_lmlfIfFTcHOE4oypb-mmuzvhPLpfFRz55CnNJFagyd6u6G4fFrlDI" length="50" width="50"></a>
+      <a href="https://github.com/sangamsaisrivinay/miniprojects/tree/main/snakegame-python"><img src="https://i.stack.imgur.com/sBEuN.png" length="50" width="50" ></a>
+      <a href="https://github.com/sangamsaisrivinay/womenselfhelpgroup_project"><img src="http://www.cdfi.in/assets/images/nrlm-logo.png" length="50" width="50"></a>
+</div>
 
 -----------------------------------------------------------------------------------------
 <div><b>conact me</b><img src="https://user-images.githubusercontent.com/68855472/103417057-2eb66f00-4baf-11eb-8e89-65a06c4f1dae.gif" width="20" height="20"></div>
