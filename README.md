@@ -19,6 +19,7 @@
 <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" alt="Dart" length="100" width="100"> 
 <img src="https://www.hopetutors.com/wp-content/uploads/2016/08/oracle-sql-developer-training-in-chennai.png" alt="Oracle SQL" length="100" width="100"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUhyE9qbuKxTdt8e7oLN8ai23tqFR_25QvcOuBZZvfMPjhmz3X54Ivb0jf6GEu45Pvbo&usqp=CAU" alt="MySQL" length="100" width="100"> 
+<img src="https://camo.githubusercontent.com/08715f505988e07c57a219646484b5bacd6e4f114cacaf320727dde32dc6317a/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f63616761746179632f696d6167652f75706c6f61642f635f7363616c652c775f3530302f76313439333931343334342f62662e706e67" alt="brainfuck" length="50" width="50">
       </div>
       
 ------------------------------------------------------------------------------------
