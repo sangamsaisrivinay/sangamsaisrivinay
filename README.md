@@ -19,7 +19,11 @@
 <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" alt="Dart" length="100" width="100"> 
 <img src="https://www.hopetutors.com/wp-content/uploads/2016/08/oracle-sql-developer-training-in-chennai.png" alt="Oracle SQL" length="100" width="100"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUhyE9qbuKxTdt8e7oLN8ai23tqFR_25QvcOuBZZvfMPjhmz3X54Ivb0jf6GEu45Pvbo&usqp=CAU" alt="MySQL" length="100" width="100"> 
-<img src="https://camo.githubusercontent.com/08715f505988e07c57a219646484b5bacd6e4f114cacaf320727dde32dc6317a/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f63616761746179632f696d6167652f75706c6f61642f635f7363616c652c775f3530302f76313439333931343334342f62662e706e67" alt="brainfuck" length="50" width="50">
+<img src="https://direct.rhapsody.com/imageserver/images/alb.346104559/500x500.jpg" alt="brainfuck" length="100" width="100">
+           <img src="https://image.flaticon.com/icons/png/512/25/25231.png" length="100" width="100">
+            <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" length="100" width="100">
+            <img src="https://ih1.redbubble.net/image.1470587088.2816/st,small,507x507-pad,600x600,f8f8f8.jpg" length="100" width="100">
+            <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" length="100" width="100">
       </div>
       
 ------------------------------------------------------------------------------------
