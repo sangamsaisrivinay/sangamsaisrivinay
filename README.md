@@ -34,7 +34,7 @@
       <a href="https://github.com/sangamsaisrivinay/miniprojects/tree/main/tictactoe"><img src="https://play-lh.googleusercontent.com/7k1wSfnstoNib_lmlfIfFTcHOE4oypb-mmuzvhPLpfFRz55CnNJFagyd6u6G4fFrlDI" length="50" width="50"></a>
       <a href="https://github.com/sangamsaisrivinay/miniprojects/tree/main/snakegame-python"><img src="https://i.stack.imgur.com/sBEuN.png" length="50" width="50" ></a>
       <a href="https://github.com/sangamsaisrivinay/womenselfhelpgroup_project"><img src="http://www.cdfi.in/assets/images/nrlm-logo.png" length="50" width="50"></a>
-      <a href="https://github.com/sangamsaisrivinay/womenselfhelpgroup_project"><img src="https://cdn.dribbble.com/users/981232/screenshots/2372988/trafficlight.gif" length="50" width="50"></a>
+      <a href="https://github.com/sangamsaisrivinay/miniprojects/tree/main/trafficlights"><img src="https://cdn.dribbble.com/users/981232/screenshots/2372988/trafficlight.gif" length="50" width="50"></a>
 </div>
 
 -----------------------------------------------------------------------------------------
