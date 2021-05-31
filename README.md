@@ -24,6 +24,7 @@
             <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" length="100" width="100">
             <img src="https://ih1.redbubble.net/image.1470587088.2816/st,small,507x507-pad,600x600,f8f8f8.jpg" length="100" width="100">
             <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" length="100" width="100">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" length="100" width="100">
       </div>
       
 ------------------------------------------------------------------------------------
