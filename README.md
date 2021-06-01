@@ -68,5 +68,10 @@
 <img src="https://user-images.githubusercontent.com/68855472/103442705-b1f2c600-4c7e-11eb-86da-e43124a43426.gif" width="1920" height="400">
 
 ------------------------------------------------------------------------------------
+      
+<h2>helpful resources for AI/ML and datascience</h2>
+      <a href="https://www.linkedin.com/pulse/40-days-ai-steve-nouri/?trackingId=ssPSVT8TSBOfHqIPW%2BQjXg%3D%3D"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHyOXUS2_NnbQ/feedshare-shrink_2048_1536/0/1620792792773?e=1623888000&v=beta&t=DD3lZyxxbfKrmXSL4GzsfaL03BfNb0zl2eX-V0511EU"></a>
+      
+------------------------------------------------------------------------------------      
 
 <i><b>                                 Thankyou for visiting my profile...</b></i>
