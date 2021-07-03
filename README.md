@@ -62,6 +62,7 @@
       <a href="https://codeforces.com/profile/sangamsaisrivinayreddy"><img src="https://3.bp.blogspot.com/-ORPQ4VTO4Pk/WmYtgWEQlRI/AAAAAAAABI0/6G5293K4Kjc4PV7YI5cPKh7eT-eIsziRgCPcBGAYYCw/s1600/codeforce.png" length="50" width="50"></a>
       <a href="https://www.hackerrank.com/saisrivinayredd1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" length="50" width="50"></a>
       <a href="https://www.hackerearth.com/@sangam83"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" length="50" width="50"></a>
+      <a href="https://jovian.ai/sangamsaisrivinay/overview"><img src="https://yt3.ggpht.com/ytc/AKedOLRodFBgvfPncrxEt2ZuILkk1wSwS6wvuXMIvlix3g=s900-c-k-c0x00ffffff-no-rj" length="50" width="50"></a>
       </div>
       
 ------------------------------------------------------------------------------------
