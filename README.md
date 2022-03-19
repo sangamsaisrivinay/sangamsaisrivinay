@@ -13,7 +13,7 @@
 - <b>&lt;/&gt;</b> I usually code in Java☕<br>
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190/">Linkedin</a>&nbsp;
-<a href="https://twitter.com/home">Twitter</a>&nbsp;
+<a href="https://twitter.com/saisrivinay1729">Twitter</a>&nbsp;
 <a href="mailto:sssvinayr@gmail.com">Email</a><br>
 - 😄 Pronouns: He/Mr/Hey Myaaan!!!😀
           </td>
