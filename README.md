@@ -19,11 +19,12 @@
           </td>
         </tr>
         <tr><td><h3>contribute to these repos🌈</h3>
-          <a href=""><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="350" height="350"></a><br/><h6>BLOCKCHAIN DEVELOPMENT</h6></td>
+          <a href="https://github.com/sangamsaisrivinay/blockchain_development">
+            <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="350" height="350"></a><br/><h6>BLOCKCHAIN DEVELOPMENT</h6></td>
         </tr>
       </table>
     </td>
-    <td><img src="https://octodex.github.com/images/gobbleotron.gif"></td>
+    <td><img src="https://octodex.github.com/images/gobbleotron.gif" width="900"></td>
   </tr>
   </table>
 
