@@ -38,7 +38,7 @@
   </table>
 <h2>I would like to collabarate on these tech🔍📢❤️️, ping Me!💌</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)</tr>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangamsaisrivinay)](https://git.io/streak-stats)</tr>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangamsaisrivinay&count_private=true)](https://github.com/sangamsaisrivinay/github-readme-stats)
 <h6>Let me tell you a joke!</h6>
 
