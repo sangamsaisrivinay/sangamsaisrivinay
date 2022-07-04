@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sangam-sai-sri-vinay-r-77490b190/">Linkedin</a>&nbsp;
 <a href="https://twitter.com/saisrivinay1729">Twitter</a>&nbsp;
 <a href="mailto:sssvinayr@gmail.com">Email</a><br>
-<a href="https://shorturl.at/dmstw">Web</a>
+<a href="https://elderly-ink-498.notion.site/Hi-there-fcf3760b40b34b558d988e220f46206a">Web</a>
 - 😄 Pronouns: He/Mr/Hey Myaaan!!!😀
           </td>
         </tr>
